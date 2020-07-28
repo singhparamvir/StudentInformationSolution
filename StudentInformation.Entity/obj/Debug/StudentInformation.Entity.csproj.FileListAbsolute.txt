@@ -1,0 +1,4 @@
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.Entity\bin\Debug\StudentInformation.Entity.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.Entity\bin\Debug\StudentInformation.Entity.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.Entity\obj\Debug\StudentInformation.Entity.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.Entity\obj\Debug\StudentInformation.Entity.pdb

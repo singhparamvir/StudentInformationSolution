@@ -1,0 +1,9 @@
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.BusinessLogic.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.BusinessLogic.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\obj\Debug\StudentInformation.BusinessLogic.csprojResolveAssemblyReference.cache
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\obj\Debug\StudentInformation.BusinessLogic.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\obj\Debug\StudentInformation.BusinessLogic.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.DataAccess.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.Entity.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.DataAccess.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.BusinessLogic\bin\Debug\StudentInformation.Entity.pdb

@@ -1,0 +1,4 @@
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\Studentinformation.Utility\bin\Debug\Studentinformation.Utility.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\Studentinformation.Utility\bin\Debug\Studentinformation.Utility.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\Studentinformation.Utility\obj\Debug\Studentinformation.Utility.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\Studentinformation.Utility\obj\Debug\Studentinformation.Utility.pdb

@@ -1,0 +1,7 @@
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\bin\Debug\StudentInformation.DataAccess.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\bin\Debug\StudentInformation.DataAccess.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\obj\Debug\StudentInformation.DataAccess.csprojResolveAssemblyReference.cache
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\obj\Debug\StudentInformation.DataAccess.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\obj\Debug\StudentInformation.DataAccess.pdb
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\bin\Debug\StudentInformation.Entity.dll
+c:\users\psingh\documents\visual studio 2015\Projects\StudentInformationSolution\StudentInformation.DataAccess\bin\Debug\StudentInformation.Entity.pdb
